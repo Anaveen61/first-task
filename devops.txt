@@ -4,3 +4,10 @@ jira
 teraforms
 doker
 kubernates
+
+
+
+
+
+
+thank you :)
