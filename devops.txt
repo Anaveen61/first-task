@@ -4,7 +4,9 @@ jira
 teraforms
 doker
 kubernates
-
+ansibe
+bit bucket
+azure services
 
 
 
