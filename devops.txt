@@ -1,9 +1,16 @@
 welcome to devops
 jenkins
-jira
 teraforms
 doker
 kubernates
+
+AWS Services are 
+cloud formation 
+cloud commit
+cloud pipeline
+cloud deployment
+stack
+
 ansibe
 bit bucket
 azure services
@@ -13,3 +20,4 @@ azure services
 
 
 thank you :)
+
